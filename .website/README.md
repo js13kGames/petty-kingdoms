@@ -1,4 +1,7 @@
 ---
+genres:
+  - strategy
+  - tabletop
 directors_cut: https://itch.io/embed-upload/9702622?color=cccac0
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
